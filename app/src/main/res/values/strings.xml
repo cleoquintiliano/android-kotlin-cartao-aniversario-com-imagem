@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Feliz Aniversario</string>
+    <string name="feliz_aniversario_text">Feliz Aniverário, Arinda!</string>
+    <string name="assinatura_text">Cléo Brito</string>
 </resources>
